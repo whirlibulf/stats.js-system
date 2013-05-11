@@ -37,3 +37,5 @@ System.prototype.init = function (engine) {
     that.renderStats.end();
   });
 };
+
+module.exports = System;
