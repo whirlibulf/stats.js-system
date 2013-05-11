@@ -4,7 +4,9 @@
   "description": "mrdoob's stats.js library as a system for the whirlibulf game engine",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "whirlibulf/stats.js": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
